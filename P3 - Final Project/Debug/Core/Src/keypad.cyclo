@@ -1,0 +1,3 @@
+../Core/Src/keypad.c:20:6:keypad_init	1
+../Core/Src/keypad.c:51:8:calculate_key	1
+../Core/Src/keypad.c:66:8:keypad_func	10
